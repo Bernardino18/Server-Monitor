@@ -14,4 +14,4 @@
 * Install server app on the server
 * Open the web platform
 
-> Authors: Bernardino Sousa (Web Interface) and Alexandre Alves (App Desktop)
+> Authors: [Bernardino Sousa](https://github.com/Bernardino18) (Web Interface) and [Alexandre Alves](https://github.com/guitarplr92) (App Desktop)
