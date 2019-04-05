@@ -1,0 +1,14 @@
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\bin\Debug\netcoreapp2.1\ubuntu.18.04-x64\libhostpolicy.so
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\bin\Debug\netcoreapp2.1\ubuntu.18.04-x64\libhostfxr.so
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\bin\Debug\netcoreapp2.1\ubuntu.18.04-x64\WebServerC
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\bin\Debug\netcoreapp2.1\ubuntu.18.04-x64\WebServerC.deps.json
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\bin\Debug\netcoreapp2.1\ubuntu.18.04-x64\WebServerC.runtimeconfig.json
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\bin\Debug\netcoreapp2.1\ubuntu.18.04-x64\WebServerC.runtimeconfig.dev.json
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\bin\Debug\netcoreapp2.1\ubuntu.18.04-x64\WebServerC.dll
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\bin\Debug\netcoreapp2.1\ubuntu.18.04-x64\WebServerC.pdb
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\obj\Debug\netcoreapp2.1\ubuntu.18.04-x64\WebServerC.csprojAssemblyReference.cache
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\obj\Debug\netcoreapp2.1\ubuntu.18.04-x64\WebServerC.csproj.CoreCompileInputs.cache
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\obj\Debug\netcoreapp2.1\ubuntu.18.04-x64\WebServerC.AssemblyInfoInputs.cache
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\obj\Debug\netcoreapp2.1\ubuntu.18.04-x64\WebServerC.AssemblyInfo.cs
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\obj\Debug\netcoreapp2.1\ubuntu.18.04-x64\WebServerC.dll
+C:\Users\T0101255\Desktop\server-monitor\WebServerC\obj\Debug\netcoreapp2.1\ubuntu.18.04-x64\WebServerC.pdb

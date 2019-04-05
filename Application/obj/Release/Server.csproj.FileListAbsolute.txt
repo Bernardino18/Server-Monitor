@@ -1,0 +1,7 @@
+F:\server-monitor\Server\bin\Release\Server.exe.config
+F:\server-monitor\Server\bin\Release\Server.exe
+F:\server-monitor\Server\bin\Release\Server.pdb
+F:\server-monitor\Server\obj\Release\Server.csprojAssemblyReference.cache
+F:\server-monitor\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+F:\server-monitor\Server\obj\Release\Server.exe
+F:\server-monitor\Server\obj\Release\Server.pdb

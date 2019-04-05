@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <link rel="shortcut icon" href="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+            function addRow() {
+            var i = 0;
+            var divs = [];
+            divs[0] = document.createElement('div');
+        
+            divs[0].className = 'col-xl-12 col-lg-7';
+        
+            divs[0].setAttribute("id", "bar_"+i);
+        
+            document.body.appendChild(divs[0]);
+        
+            divs[1] = document.createElement('div');
+        
+            divs[1].className = 'card shadow mb-4';
+        
+            divs[1].appendChild(divs[0]);
+        
+            divs[2] = document.createElement('div');
+        
+            divs[2].className = 'card-header py-3 d-flex flex-row align-items-center justify-content-between';
+        
+            divs[2].appendChild(divs[1]);
+        
+            var h6 = document.createElement('h6');
+        
+            h6.setAttribute("id","ethdesc_"+i);
+        
+            h6.className = 'm-0 font-weight-bold text-primary';
+        
+            h6.appendChild(divs[2]);
+        
+            divs[3] = document.createElement('div');
+        
+            divs[3].className = 'card-body';
+        
+            divs[3].appendChild(divs[1]);
+        
+            divs[4] = document.createElement('div');
+        
+            divs[4].className = 'chart-area';
+        
+            divs[4].appendChild(divs[3]);
+        
+            var canvas = document.createElement('canvas');
+        
+            //mudar aqui
+            canvas.setAttribute("id","myAreaChart");
+        
+            canvas.appendChild(divs[4]);
+        
+        }
+        </script>
+</head>
+<body onload="addRow();">
+
+</body>
+
+</html>
